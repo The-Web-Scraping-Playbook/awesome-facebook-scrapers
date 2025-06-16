@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Facebook OpsKit
+> Find out everything you need to know to reliably scrape Facebook with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/facebook)
+
+This kit provides the blueprint for Facebook scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-facebook-scrapers)
 - [Scrapers By Language](#facebook-scrapers-by-language)
@@ -36,41 +47,40 @@ Perfect for:
 ## 📦 Featured Scrapers <a id="featured-facebook-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
-| Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
-|------|----------|-------|------------|--------------|-----------------|
-| [Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) ![img](https://github.com/harismuneer.png?size=20) |  | ⭐ 3013 | ✅ Yes | 2025-01-30 | ✅ |
-| [facebook-scraper](https://github.com/kevinzg/facebook-scraper) ![img](https://github.com/kevinzg.png?size=20) | python | ⭐ 2647 | ✅ Yes | 2024-06-22 | ✅ |
-| [facebook-page-post-scraper](https://github.com/minimaxir/facebook-page-post-scraper) ![img](https://github.com/minimaxir.png?size=20) | python | ⭐ 2122 | ✅ Yes | 2019-05-23 | ✅ |
+| Name | Language | Stars | Maintained | Last Updated |
+|------|----------|-------|------------|--------------|
+| [Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) ![img](https://github.com/harismuneer.png?size=20) |  | ⭐ 3013 | ✅ Yes | 2025-01-30 |
+| [facebook-scraper](https://github.com/kevinzg/facebook-scraper) ![img](https://github.com/kevinzg.png?size=20) | python | ⭐ 2647 | ❌ No | 2024-06-22 |
+| [facebook-page-post-scraper](https://github.com/minimaxir/facebook-page-post-scraper) ![img](https://github.com/minimaxir.png?size=20) | python | ⭐ 2122 | ❌ No | 2019-05-23 |
 
 🟢 = actively maintained \| 🔴 = not updated in 6 + months
 
 ---
 
 ## 🧑‍💻 Facebook Scrapers By Language <a id="facebook-scrapers-by-language"></a>
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [facebook-scraper](https://github.com/kevinzg/facebook-scraper) | ⭐ 2647 | 2024-06-22 | immediate | ❌ No |
+| [facebook-page-post-scraper](https://github.com/minimaxir/facebook-page-post-scraper) | ⭐ 2122 | 2019-05-23 | professional | ❌ No |
+| [fbcrawl](https://github.com/rugantio/fbcrawl) | ⭐ 675 | 2020-07-26 | professional | ❌ No |
+| [facebook-post-scraper](https://github.com/brutalsavage/facebook-post-scraper) | ⭐ 332 | 2023-01-03 | immediate | ❌ No |
+| [facebook-marketplace-scraper](https://github.com/passivebot/facebook-marketplace-scraper) | ⭐ 300 | 2024-04-29 | immediate | ❌ No |
+| [facebook_page_scraper](https://github.com/shaikhsajid1111/facebook_page_scraper) | ⭐ 255 | 2024-07-14 | professional | ❌ No |
+| [facebook-scraper-selenium](https://github.com/apurvmishra99/facebook-scraper-selenium) | ⭐ 219 | 2020-06-28 | immediate | ❌ No |
+| [FacebookPostsScraper](https://github.com/hhsm95/FacebookPostsScraper) | ⭐ 148 | 2022-12-08 | intermediate | ❌ No |
+
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [facebook-group-members-scraper](https://github.com/floriandiud/facebook-group-members-scraper) | ⭐ 247 | 2024-09-13 | — | ✅ Yes |
-
-
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [facebook-scraper](https://github.com/kevinzg/facebook-scraper) | ⭐ 2647 | 2024-06-22 | — | ✅ Yes |
-| [facebook-page-post-scraper](https://github.com/minimaxir/facebook-page-post-scraper) | ⭐ 2122 | 2019-05-23 | — | ✅ Yes |
-| [fbcrawl](https://github.com/rugantio/fbcrawl) | ⭐ 675 | 2020-07-26 | — | ✅ Yes |
-| [facebook-post-scraper](https://github.com/brutalsavage/facebook-post-scraper) | ⭐ 332 | 2023-01-03 | — | ✅ Yes |
-| [facebook-marketplace-scraper](https://github.com/passivebot/facebook-marketplace-scraper) | ⭐ 300 | 2024-04-29 | — | ✅ Yes |
-| [facebook_page_scraper](https://github.com/shaikhsajid1111/facebook_page_scraper) | ⭐ 255 | 2024-07-14 | — | ✅ Yes |
-| [facebook-scraper-selenium](https://github.com/apurvmishra99/facebook-scraper-selenium) | ⭐ 219 | 2020-06-28 | — | ✅ Yes |
-| [FacebookPostsScraper](https://github.com/hhsm95/FacebookPostsScraper) | ⭐ 148 | 2022-12-08 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [facebook-group-members-scraper](https://github.com/floriandiud/facebook-group-members-scraper) | ⭐ 247 | 2024-09-13 | immediate | ❌ No |
 
 
 ### Unknown
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) | ⭐ 3013 | 2025-01-30 | — | ✅ Yes |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [Ultimate-Social-Scrapers](https://github.com/harismuneer/Ultimate-Social-Scrapers) | ⭐ 3013 | 2025-01-30 | professional | ✅ Yes |
 
 ---
 
@@ -101,7 +111,7 @@ Know a Facebook scraper we missed? Want us to include your project?
 
 - Click **[New Issue](../../issues/new)** on this repo
 - Include the GitHub URL, language, and brief description
-- We’ll validate and include it in the next update
+- We'll validate and include it in the next update
 
 All contributions welcome! We'll vet and include approved scrapers in the next update.
 
