@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Facebook OpsKit
-> Find out everything you need to know to reliably scrape Facebook with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/facebook)
+> Find out everything you need to know to reliably scrape Facebook with our new tool: [Ops Kit](https://scrapeops.io/websites/facebook)
 
 This kit provides the blueprint for Facebook scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -99,7 +99,7 @@ This kit provides the blueprint for Facebook scraping operations:
 ---
 
 ## 🧠 Facebook Tutorials & How-Tos<a id="facebook-tutorials"></a>
-- 📘 [How to Scrape Facebook at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-facebook/)
+- 📘 [How to Scrape Facebook at Scale](https://scrapeops.io/websites/facebook/how-to-scrape-facebook)
 - 🔐 [Web Scraping Facebook Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
