@@ -23,10 +23,10 @@ Perfect for:
 
 ---
 
-## 🧠 Facebook OpsKit
-> Find out everything you need to know to reliably scrape Facebook with our new tool: [Ops Kit](https://scrapeops.io/websites/facebook)
+## 🧠 Facebook Website Scraping Analyzer
+> Find out everything you need to know to reliably scrape Facebook with our new tool: [Website Scraping Analyzer](https://scrapeops.io/websites/facebook)
 
-This kit provides the blueprint for Facebook scraping operations:
+Our Website Scraping Analyzer provides the blueprint for Facebook scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
 - **Data:** Data Types, Public APIs
 - **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
@@ -125,7 +125,6 @@ All contributions welcome! We'll vet and include approved scrapers in the next u
 
 ## 🏷 Tags
 Facebook scraper, web scraping, facebook API, python scraper, playwright, data scraping, anti-bot, github, open-source facebook crawler, ScrapeOps
-
 
 ---
 
